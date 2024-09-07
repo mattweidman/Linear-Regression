@@ -17,7 +17,7 @@ x = np.array(x_arr)
 y = np.array(y_arr)
 n = len(x_arr)
 
-# Comput y-intercept and slope.
+# Compute y-intercept and slope.
 # Derivation: https://spia.uga.edu/faculty_pages/mlynch/teaching/ols/OLSDerivation.pdf
 x_sum = x.sum()
 y_sum = y.sum()
